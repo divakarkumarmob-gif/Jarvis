@@ -1,0 +1,10 @@
+.env
+*.db
+__pycache__/
+*.pyc
+*.pyo
+audio_cache/
+uploads/
+data/
+.DS_Store
+*.log
